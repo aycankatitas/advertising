@@ -1,5 +1,5 @@
 # Televised Political Advertising
-Replication data for [Politicizing Trade: How Economic Discontent andIdentity Politics Shape Anti-Trade Campaign Appeals](https://www.dropbox.com/s/jvh35k8l5hgrryf/Katitas_JMP.pdf?dl=0)
+Replication data for [Politicizing Trade: How Economic Discontent and Identity Politics Shape Anti-Trade Campaign Appeals](https://www.dropbox.com/s/jvh35k8l5hgrryf/Katitas_JMP.pdf?dl=0)
 
 ## Repository Layout 
 This repository contains the folder ``code``, which includes all scripts needed to be run in order to generate all data.
