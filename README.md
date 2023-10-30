@@ -5,7 +5,7 @@ Replication data for [Politicizing Trade: How Economic Discontent and Identity P
 This repository contains the folder ``code``, which includes all scripts needed to be run in order to generate all data.
 
 ## Installation 
-Recreating all tables and figures in this repository requires working installations of [R]([Index of /src/base/R-4](https://cran.r-project.org/src/base/R-4/)  All this coded was tested R version 4.1.3 on a Mac Monterey. 
+Recreating all tables and figures in this repository requires working installations of [R.](https://cran.r-project.org/src/base/R-4/)  All this coded was tested R version 4.1.3 on a Mac Monterey.
 
 ### R dependencies 
 All R code uses the following packages: ``dplyr, tidyverse, lfe, stargazer, broom, marginaleffects, modelsummary, readstata13, scales, foreign, countrycode, quantmod, lmtest, sandwich, matchit, cobalt`` 
